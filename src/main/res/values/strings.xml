@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Filmes TMDB</string>
+    <string name="app_name">Filmes The Movie DB </string>
     <string name="something_went_wrong">Algo deu errado... Por favor, tente novamente mais tarde!</string>
     <string name="movie_poster">Poster do Filme</string>
     <string name="sort_movies">Ordenar</string>

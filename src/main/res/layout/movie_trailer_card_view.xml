@@ -15,6 +15,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="8dp"
+
         android:src="@drawable/ic_videocam_black_36dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -26,6 +27,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Trailer"
+        android:contentDescription="Você verá aqui o trailer do Filme"
         android:textSize="28sp"
         android:background="#fffafafa"
         android:padding="12dp"
