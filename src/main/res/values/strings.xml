@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Filmes TMDB</string>
+    <string name="something_went_wrong">Algo deu errado... Por favor, tente novamente mais tarde!</string>
+    <string name="movie_poster">Poster do Filme</string>
+    <string name="sort_movies">Ordenar</string>
+    <string name="sort_popularity">Popularidade</string>
+    <string name="sort_top_rated">Mais Votados</string>
+    <string name="movie_overview_label">Sobre o Filme</string>
+    <string name="trailer">Trailer</string>
+    <string name="sort_by_favorites">Favoritos</string>
+    <string name="read_user_reviews">Ler comentários de usuários</string>
+    <string name="movie_removed_from_favorites">Filme removido dos favoritos</string>
+    <string name="movie_added_to_favorites">Filme adicionado aos favoritos</string>
+    <string name="review_activity_title">Revisões de usuários</string>
+    <string name="no_internet_message">Você deve ter uma conexão com a internet para usar este aplicativo! Tente novamente quando tiver acesso à Internet.</string>
+    <string name="refresh">Atualizar</string>
+    <string name="movie_trailer_icon">Ícone do trailer do filme</string>
+</resources>
